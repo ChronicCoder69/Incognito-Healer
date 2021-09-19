@@ -3,7 +3,7 @@ from flask_mail import Mail,Message
 import pickle
 import numpy as np
 app = Flask(__name__)
-model = pickle.load(open('modelA.pkl', 'rb'))
+model = pickle.load(open('model.pkl', 'rb'))
 
 app.config['DEBUG']=True
 app.config['TESTING']=False
