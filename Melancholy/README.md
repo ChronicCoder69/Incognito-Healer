@@ -8,10 +8,10 @@ Users can even chat with other users too, anonymously by creating a separate cha
 https://chat-room-anmol.herokuapp.com/
 
 ### Technologies Used :
-HTML
-CSS 
-JS
-NodeJS(back-end)
+HTML<br>
+CSS <br>
+JS<br>
+NodeJS(back-end)<br>
 
 ### Installing
 Step 0: ```Git clone this project```<br>
