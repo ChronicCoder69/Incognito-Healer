@@ -4,6 +4,9 @@ User will interact with counseller using a chat room, called Melancholy, creat
 No chats between them will be stored so this is entirely gonna be a safe space for users to share their thoughts and emotions.
 Users can even chat with other users too, anonymously by creating a separate chat room whose generated code will only be shared between them.
 
+### Link
+https://chat-room-anmol.herokuapp.com/
+
 ### Technologies Used :
 HTML
 CSS 
