@@ -11,17 +11,17 @@ For the backend we used :
 2.Node.js<br>
 3.DialogFlow<br>
 We used Mongo DB as the data base in order to store the required data(feedback and Blogs).
-###Components of the Project
+### Components of the Project
 1.Recommendation System:With this the student will get to to know whether he needs a counsellor or not.The model was created using MLP and deployed on flask(ModelA.pkl).<br>
 2.Melancholy:This is the realtime chat application which enables to replicate a support group system.(Melancholy)<br>
 3.WEvolve:This is the blogging website which enables user to see the blogs written by proffesionals as well as people.Blog's Front End is developed using React and for Backend we used Node, while Blogs are stored in MongoDB.(WEvolve)<br>
 4.Charlie:The chatbot was developed using Dialogflow.(In Templates/index.html a short snippet code is added in the body tag to integrate the chatbot)<br>
-###INSTALLING
+### INSTALLING
 Step 0: Git clone this project<br>
 Step 1: cd <local-repository-folder> <br>
 Step 2: pip3 install -r requirements.txt<br>
 Step3: python app.py<br>
-Credits:<br>
+### Credits
 Team Name:404 Not found<br>
 Members:<br>
 Arjit Vats<br>
