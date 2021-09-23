@@ -5,6 +5,7 @@ No chats between them will be stored so this is entirely gonna be a safe space f
 Users can even chat with other users too, anonymously by creating a separate chat room whose generated code will only be shared between them.
 
 ### Link
+https://curingit.herokuapp.com/
 
 
 ### Technologies Used :
