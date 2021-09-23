@@ -3,7 +3,7 @@ A Web App which will help students to connect with the counsellers all across th
 Students can share their experiences of mental health issues related to stresss, depression cases as well as other problems and reveal the struggles they are facing in campus
 We are building a fully furnished capable web site through suitable technologies to address this through the strength of machine learning whose model will recommend right counsellor for the user.
 ### LINK
-https://incognito-healer.herokuapp.com/
+https://incognito-healer.herokuapp.com/ <br>
 Ppt. link - https://drive.google.com/drive/folders/1girOE-gX7ZLtgZj9GQ67VAv51RwsFIgc?usp=sharing
 
 ### Technologies Used
