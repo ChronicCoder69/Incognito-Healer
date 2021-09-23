@@ -10,7 +10,7 @@ For the front-end we mainly used
 
 1.HTML/CSS<br>
 2.REACT(JS)<br>
-For the backend we used :
+For the backend we used :<br>
 1.Flask<br>
 2.Node.js<br>
 3.DialogFlow<br>
