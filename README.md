@@ -4,6 +4,7 @@ Students can share their experiences of mental health issues related to stresss,
 We are building a fully furnished capable web site through suitable technologies to address this through the strength of machine learning whose model will recommend right counsellor for the user.
 ### LINK
 https://incognito-healer.herokuapp.com/
+Ppt. link - https://drive.google.com/drive/folders/1girOE-gX7ZLtgZj9GQ67VAv51RwsFIgc?usp=sharing
 
 ### Technologies Used
 For the front-end we mainly used 
