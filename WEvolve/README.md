@@ -1,8 +1,6 @@
 # WEvolve
 
-User will interact with counseller using a chat room, called Melancholy, created as a webRTC based internal communication.
-No chats between them will be stored so this is entirely gonna be a safe space for users to share their thoughts and emotions.
-Users can even chat with other users too, anonymously by creating a separate chat room whose generated code will only be shared between them.
+It is an annonymous blogging website developed for our website Incognito Healer it is used to upload blogs about mental health and also enables user to share their own experiences and battles.It also enables user to upload photos and little description. 
 
 ### Link
 https://curingit.herokuapp.com/
