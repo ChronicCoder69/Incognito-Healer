@@ -28,7 +28,7 @@ Step3: ```python app.py```<br>
 ### Credits
 Team Name:404 Not found<br>
 Members:<br>
-Arjit Vats<br>
+Arjit Vatsa<br>
 Anmol Mittal<br>
 Annie Jain<br>
 S Aditya<br>
