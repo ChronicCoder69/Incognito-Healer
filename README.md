@@ -1,6 +1,6 @@
 # INCOGNITO HEALER
 A Web App which will help students to connect with the counsellers all across the world based on their mental health concerns. 
-Students can share their experiences of mental health issues related to stresss, depression cases as well as other problems and reveal the struggles they are facing in campus
+Students can share their experience of mental health issues related to stress, depression as well as other problems and reveal the struggles they are facing in campus
 We are building a fully furnished capable web site through suitable technologies to address this through the strength of machine learning whose model will recommend right counsellor for the user.
 ### LINK
 https://incognito-healer.herokuapp.com/ <br>
