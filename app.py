@@ -33,7 +33,7 @@ def index():
 def predict1():
     int_features = [x for x in request.form.values()]
     l = []
-    #['S ADITYA', 's.aditya04042001@gmail.com', '21/07/2001', '9:00 to 10:00', ' Child psychiatrist', '']
+    #['Arjit Vatsa', 'arjitrajatvatsa@gmail.com', '21/07/2001', '9:00 to 10:00', '', '']
     for i in range(len(int_features)-1):
         l.append(int_features[i])
     name=l[0]
